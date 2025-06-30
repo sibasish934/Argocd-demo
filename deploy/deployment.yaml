@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: demo
-        image: sibasish934/argocd-demo-frontend:v1
+        image: sibasish934/argocd-demo-frontend:v20250630134819
         ports:
         - containerPort: 80
